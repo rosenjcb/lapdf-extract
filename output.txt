@@ -1,0 +1,62 @@
+1.
+1.
+EXPORT AND RE-EXPORT OF 1E001, 1E101 AND 2E003 COMPOSITE TECHNOLOGY/TECHNICAL DATA IS AUTHORIZED TO AIRCELL (FRANCE) LIMITED TO THE MINIMUM REQUIRED FOR DETERMINING THE FEASIBILITY OF AND USE IN THE DESIGN, DEVELOPMENT, MANUFACTURE, MODIFICATION, SUPPLY, AND SUPPORT OF THE MAIN AND NOSE LANDING GEAR AND COMPONENTS FOR THE BOEING 787.
+TECHNOLOGY RELEASE, INCLUDING CROSSTALK, IS LIMITED TO THE APPLICANT, THE ULTIMATE CONSIGNEE, AND THE SPECIFIED END USERS ONLY AND FOR THE FURPOSE DEFINED BY THIS LICENSE, I.E. FOR THE DESIGN, DEVELOPMENT AND PRODUCTION OF BOEING COMMERCIAL AIRCRAFT AND AIRCRAFT PARTS ONLY, IT BEING UNDERSTOOD THAT THIS LICENSE ALLOWS THE EXPORT AND RE-EXPORT OF THE IDENTIFIED CONTROLLED TECHNOLOGIES ONLY.
+2.
+ENGINEERING ANALYSIS (I.E., ANALYTICAL METHODS AND TOOLS, COMPUTER MODELS, SIMULATIONS), MANUFACTURING KNOW-HOW (1I.
+E., DETAILED MANUFACTURING PROCESSES AND TECHNIQUES), MATERIALS PROCESSING KNOW-HOW AND APPLICATION ENGINEERING DATA USED FOR STRUCTURAL COMPOSITES AND/OR METALLIC STRUCTURES FOR COMMERCIAL AIRCRAFT AND COMMERCIAL AIRCRAFT PART ENGINEERING, DESIGN AND MANUFACTURING PROCESSES MAY BE PROVIDED TO THE ULTIMATE CONSIGNEE AND SPECIFIED END USERS FOR THE PURPOSE OF (A) COMMUNICATING THE REQUIREMENTS OF THE SPECIFIC WORK, AND (B) ESTABLISHING THE EVALUATION METHODS FOR QUALIFICATION OF SPECIFIED END USER ACTIVITIES.
+3.
+AUTHORIZATION IS LIMITED TO THE FOLLOWING ECCN DESCRIPTIONS: A. ECCN 1EQ01- TECHNOLOGY FOR THE DEVELOPMENT OR PRODUCTION OF ITEMS CONTROLLED BY (1A, 1B, OR 1C) TEST, INSPECTION AND PRODUCTION EQUIPMENT FOR THE PRODUCTION, PREFORMS OR COMPOSITES; B. ECCN 1E101 — TECHNOLOGY FOR USE OF ITEMS CONTROLLED BY 18001, 1B101, 1D001 AND 1D101 C. ECCN 2E003-TECHNOLOGY FOR METAL WORKING PROCESSES SUCH AS DIFFUSION BONDING, SUPER PLASTIC FORMING INCLUDING TOOLS SUCH AS DIES AND FIXTURES" 4, TECHNOLOGY RELATED TO COMPOSITE MATERIALS OR STRUCTURES SPECIFIC TO U.S. WEAPON SYSTEMS (E.G., PART DRAWINGS OR PROCESS SPECIFICATIONS RELATING TO MILITARY AIRCRAFT OR MISSILE APPLICATIONS) MUST NOT BE DISCUSSED, OFFERED, OR RELEASED.
+5.
+QUALITY CONTROL/QUALITY ASSURANCE DATA MUST BE LIMITED TO THAT NECESSARY FOR THE VALIDATION AND ACCEPTANCE OF BOEING COMMERCIAL AIRCRAFT HARDWARE AND MATERIALS.
+6.
+TECHNOLOGY RELATED TO TREATMENT OR THE RESHAPING OF COMPOSITE AND/OR METALLIC PANELS FOR THE REDUCTION OF RADAR CROSS SECTION MUST NOT BE DISCUSSED, OFFERED, OR RELEASED.
+7.
+TECHNOLOGY PERTAINING TO TOUGHENED COMPOSITES SUCH AS IM7/977-3 RESIN-BASED MATERIALS MUST NOT BE DISCUSSED, OFFERED, OR RELEASED.
+8.
+NO RE-EXPORT OR TRANSFER OF THE CONTROLLED TECHNOLOGY ut oF EXPORT LICENSE D360231 fg", UNITED STATES DEPARTMENT OF COMMERCE VALIDATED: SEP 30 2006 §& % BUREAU OF INDUSTRY AND SECURITY EXPIRES: SEP 30 2014 % os * P.O. Box 273, Ben Franklin Station %,, TS ¢ Washington, DC 20044 Ttargs oF SUBJECT TO THIS LICENSE IS PERMITTED EXCEPT AS AUTHORIZED UNDER THE EXPORT ADMINISTRATION REGULATIONS (EAR).
+9, PRIOR TO RELEASE OF ANY CONTROLLED TECHNOLOGY/TECHNICAL DATA, ULTIMATE CONSIGNEE/END USERS MUST SIGN A LETTER OF ASSURANCE AS SPECIFIED IN PART 748 SUP 2 PARA (0) (3) OF THE U.S. DEPARTMENT OF COMMERCE'S EXPORT ADMINISTRATION REGULATIONS.
+10, THE ULTIMATE CONSIGNEE SHALL INFORM ALL PERSONNEL RECEIVING THE LICENSED TECHNOLOGY IN WRITING OF ALL LICENSE CONDITIONS AND OF HIS/HER RESPONSIBILITY NOT TO DISCLOSE, TRANSFER OR REEXPORT ANY CONTROLLED TECHNOLOGY TO UNAUTHORIZED PERSONNEL WITHOUT PROPER AUTHORITY.
+11.
+ONLY PERMANENT EMPLOYEES OF THE ULTIMATE CONSIGNEE ARE AUTHORIZED ACCESS TO THE CONTROLLED TECHNOLOGY/TECHNICAL DATA OR SOFTWARE.
+EMPLOYEES MUST BE CITIZENS OF THE EUROPEAN UNION, CITIZENS OF THE ULTIMATE CONSIGNEE'S OR END USER'S COUNTRY, OR CITIZENS OF THE UNITED STATES.
+12.
+THE RECIPIENTS OF TECHNOLOGY UNDER THIS LICENSE WILL ESTABLISH A TECHNOLOGY CONTROL PLAN (TCP) TO ENSURE COMPLIANCE WITH THE CONDITIONS OF THIS LICENSE.
+A COPY OF THE TCP MUST BE DELIVERED TO DOC/BIS PRIOR TO THE EXPORT OF TECHNOLOGY.
+THIS DOCUMENTATION SHOULD BE MAILED TO OPERATIONS SUPPORT DIVISION, 14TH STREET AND PENNSYLVANIA AVENUE, NW, ROOM 2705, WASHINGTON D.C. 20230.
+INDICATE ON THE ENVELOPE "EXPORTER TCP".
+THIS CAN ALSO BE SUBMITTED VIA E-MAIL AT THE FOLLOWING ADDRESS: EARREPTS@BIS.DOC.GOV.
+13.
+A TECHNOLOGY CONTROL PLAN (TCP) MUST CONTAIN AT A MINIMUM THE FOLLOWING ITEMS: I. CLEAR STATEMENT OF CORPORATE COMMITMENT COMMUNICATED TO ALL LEVELS OF THE FIRM.
+IDENTIFICATION OF KEY EXPORT MANAGEMENT OFFICIALS AND OTHER RESPONSIBLE OFFICIALS TO ENSURE COMPLIANCE WITH THE TCP.
+II.
+BASIC TECHNOLOGY TRANSFER CONTROL TRAINING PROGRAM TO ENSURE ALL EMPLOYEES UNDERSTAND THEIR OBLIGATION TO INSURE CONTROLLED TECHNOLOGY IS NOT COMPROMISED.
+III, SECURITY PROCEDURES FOR PREVENTING ACCESS TO CONTROLLED TECHNOLOGY BY UNAUTHORIZED PERSONNEL (E.G. BADGES, ACCESS CODES).
+THIS SHOULD INCLUDE CLEARANCE AND SAFEGUARDING PROCEDURES FOR VISITORS WHO ENTER THE FACILITY AND EMPLOYEES NOT AUTHORIZED TO HAVE ACCESS TO CONTROLLED TECHNOLOGY.
+IV.
+PROCEDURES TO SCREEN POTENTIAL EMPLOYEES AND REQUIREMENT TO SIGN NON-DISCLOSURE AGREEMENT PRIOR TO EMPLOYMENT, ¥.
+PROCEDURES TO ENSURE EMPLOYEES DO NOT RECEIVE CONTROLLED TECHNOLOGY UNTIL AUTHORIZED BY USG LICENSE.
+PROCEDURES TO ENSURE THAT CONTROLLED TECHNOLOGY IS NOT DISSEMINATED IN AN UNAUTHORIZED MANNER.
+The Boeing Company P.O. Box 3707 Seatile, WA 98124-2207 July 6, 2006 U.S. Department of Commerce Bureau of Industry and Security Office of Exporter Services, Room 2705 14" and Pennsylvania Avenue N.W. Washington, D.C, 20230 Attention: Mr. Gene Christiansen Cr Subject: Export License Application for Transfer ofTechnology to Sasa Aircelle and Messier Dowty.
+— Application Control Number — 2812957 Reference: Export License D342081 Messier Dowty The Boeing Company, (through its Commercial Airplane Group, hereinafter referred to as “Boeing™), a U.S. company, is applying for an export license to share technology, as well as hold technical discussions about the technologies described in Attachment A with Aircelle, a French company and a subsidiary of the SAFRAN Group.
+This software and technology are classified under ECCNs; TEQO1, LEIO1, 2E003.
+These technologies have been previously licensed to Messier Dowty under Boeing License D330935.
+| The following letter of explanation is provided in support of the enclosed BIS-748P | application form, and in accordance with the requirements of Part 748 of the Export | Administration Regulations.
+Statement of Work AIRCELLEis contracted to work with Messier Dowty to lead in the resin transfer molding (RTM) both in material and machining development and manufacture of the 787 landing gear composite braces.
+Boeing has been requested to assist in the development because of | Our expertise in these areas.
+Boeing will provide technical assistance in the development | and manufacture of the composite landing gear braces.
+!
+Project Location The technology transfer contemplated underthis license application will take place at the following: e AIRCELLEfacilities in France Aircelle employee's could be nationals of France or a member of the European Union (EU) and employed at a AIRCELLEfacility listed as the End-user in this application.
+EU member countries are currently Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, The Netherlands, and the United Kingdom.
+Identities of the Parties to the Transaction Applicant: The Boeing Company Operating through its Commercial Airplane operating group Page 2 End-user: AIRCELLE Route Du Pont VIII BP-9] Gonftreville L’Orher, Tel: 33 232 79 4655 http://www.aircelle.com/ Q Aircelle is a manufacture of aircraft nacelles, including engines and components, SOEING composite structures and panels, fuselages, wings and cockpit canopies, other aircraft part and auxiliary equipment.
+Aircelle is developing Resin transfer molding (RTM) and currently has RTM components in service on nacelles and thrust reversers.
+Form in Which Exports Will Be Made Technology will be exported verbally in the collaborative environment, in the form of printed materials and via electronic computer files (email).
+Aircelle will not be granted computing access to Boeing computing systems.
+Requested License Validity Period Boeing requests that the license be granted for a term ofeight years.
+Based on the type of engineering design, development and manufacturing activity required, such long-term collaboration will continue through the development, production and service life of the commercial aircraft.
+Boeing will inform AIRCELLEofall restrictions and obligations placed on the export- controlled technology under EAR.
+Questions and comments may be addressed to Julie Felgar at (703) 465-3271.
+Very truly yours, BOEING COMMERCIAL AIRPLANES OLEofThe Bg¢ing Company) Rick L. Laird Manager, Boeing Commercial Airplanes Export Compliance Attachments: (A) Description of ECCNsto be Exported to Aircelle (B) Export License D342081 Messier Dowty (C) Export License D330935 Boeing Page 3 ATTACHMENT A LIST OF SOFTWARE AND TECHNOLOGIES TO BE EXPORTED TO AIRCELLE By ECCN The technologies requiring an export license are classified under the following ECCNs, the descriptions of which are intended to correspond to and supplement the ‘Specific End Use’ and ‘Technical Description’ information in boxes 21 and 22(j) of Form BIS-748P.
+1E001 — ‘Technology for the development or production ofitems controlled by (1A, 1B or 1C)test, Q inspection and production equipment for the production, pre-forms or composites.
+A, 1E101 — ‘Technology’, in accordance with the General Technology Note, for the ‘use’ of SFOEMM EF commodities and software controlled by: 1B001, 1B101, LDOO01, IDIOI.
+2E003 — ‘Technology’ for metal working process such as diffusion bonding, super plastic forming, including such as tools, dies and fixtures.

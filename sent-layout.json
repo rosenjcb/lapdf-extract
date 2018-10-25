@@ -1,0 +1,21 @@
+{
+   "leftStartX" : "80",
+   "rightStartX" : "320",
+   "startY" : "90",
+   "endY" : "723",
+   "tableGap" : "17.0",
+   "tableDelimiter" : "#####",
+   "extractStrategyDetails": {"extractStrategy":"com.pdfextract.common.AgreementSentanceExtractStrategy", "additionalParameters": {"sections": "COMMODITIES:,RIDERS AND CONDITIONS:"}},
+   "sections" : [
+      {
+         "name" : "Section",
+         "regex" : "",
+         "isTabular" : "false"
+      },
+      {
+         "name" : "Sentence",
+         "regex" : "",
+         "isTabular" : "false"
+      }
+   ]
+}

@@ -1,0 +1,41 @@
+{
+   "leftStartX" : "80",
+   "rightStartX" : "320",
+   "startY" : "90",
+   "endY" : "723",
+   "tableGap" : "17.0",
+   "tableDelimiter" : "#####",
+   "extractStrategyDetails": {"extractStrategy":"com.pdfextract.common.PredicateExtractStrategy", "additionalParameters": {"sections": "COMMODITIES:,RIDERS AND CONDITIONS:"}},
+   "sections" : [
+      {
+         "name" : "Predicate",
+         "regex" : "",
+         "isTabular" : "false"
+      },
+      {
+         "name" : "Score",
+         "regex" : "",
+         "isTabular" : "false"
+      },
+      {
+         "name" : "Section",
+         "regex" : "",
+         "isTabular" : "false"
+      },
+      {
+         "name" : "Sentance",
+         "regex" : "",
+         "isTabular" : "false"
+      },
+      {
+         "name" : "Object",
+         "regex" : "",
+         "isTabular" : "false"
+      },
+      {
+         "name" : "Subject",
+         "regex" : "",
+         "isTabular" : "false"
+      }
+   ]
+}
